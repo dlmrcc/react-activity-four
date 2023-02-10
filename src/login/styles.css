@@ -1,0 +1,15 @@
+
+.first-div{
+    background-image: url ("public/assets/image/1.jpg");
+    background-color: blue;
+}
+  
+    .radius
+    {
+        border-radius:1rem;
+    }
+
+    image{
+        width: auto;
+    }
+  
